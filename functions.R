@@ -9,3 +9,5 @@ kelvin_to_celsius <- function(temp_K) {
 }
 
 # Define a função fatorial
+fact <- function(natural) {
+}
